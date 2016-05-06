@@ -1,0 +1,9 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Project Tugas Akhir STT DHARMA ISWARA Madiun
+${licensePrefix}ONLINE SHOP INDUSTRI KULIT MAGETAN
+${licensePrefix}Ditulis untuk mendapatkan gelar S.Kom
+<#if licenseLast??>
+${licenseLast}
+</#if>
